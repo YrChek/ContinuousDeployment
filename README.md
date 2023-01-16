@@ -1,3 +1,3 @@
 # Webpack5
 
-![CI](https://github.com/YrChek/ContinuousDeployment/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/YrChek/continuousdeployment/actions/workflows/web.yml/badge.svg)
